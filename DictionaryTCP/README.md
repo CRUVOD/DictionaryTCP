@@ -1,6 +1,14 @@
-## Getting Started
+## Dictionary TCP
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Assignment 1 of COMP90015 Distributed Systems
+
+Using a client-server architecture, a multi-threaded server is designed and implemented, that 
+allows concurrent clients to search the meaning(s) of a word, add a new word, remove an 
+existing word, adding or updating a specified meaning, and removing a specified meaning of 
+a word.
+
+The server implements the thread-per-connection model, allowing for multiple clients to 
+connect and submit requests, whilst maintaining constant connections for each client.
 
 ## Folder Structure
 
@@ -9,10 +17,10 @@ The workspace contains two folders by default, where:
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Usage
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Simply double click on the two jar files to start server and client respectively.
 
-## Dependency Management
+## Warning
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+This repository is for reference only. Learn from it when you are concerned about the assignment. # Please do not copy all the code for submission.
