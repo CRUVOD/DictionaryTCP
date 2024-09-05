@@ -23,4 +23,5 @@ Simply double click on the two jar files to start server and client respectively
 
 ## Warning
 
-This repository is for reference only. Learn from it when you are concerned about the assignment. # Please do not copy all the code for submission.
+This repository is for reference only. Learn from it when you are concerned about the assignment. 
+# Please do not copy all the code for submission.
